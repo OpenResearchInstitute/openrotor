@@ -17,6 +17,6 @@
 * Capable of running open-loop or closed loop (preferred)
 * Optional capability for position sensing through IMU
 * Optional GPS for location and time sync
-* Supports control by hamlib, common serial rotor protocols, N1MM rotor protocol, and additional networked methods
+* Supports control by hamlib, common serial rotor protocols, N1MM rotor protocol, and additional networked methods such as MQTT.
 
 
