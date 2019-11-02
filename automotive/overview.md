@@ -1,4 +1,4 @@
-### Overview of the Mechanical Design
+# Overview of the Mechanical Design
 ## Use commonly available automotive and off the shelf industrial parts to create a heavy duty rotator.
 
 
