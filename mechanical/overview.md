@@ -6,3 +6,6 @@
 ![flange-bearing](https://user-images.githubusercontent.com/6608613/68074383-98db4600-fd57-11e9-936a-defba68aad11.jpeg)
 <img width="1038" alt="flange-bearing-specs" src="https://user-images.githubusercontent.com/6608613/68074414-fc657380-fd57-11e9-9a35-c9f9139a13a9.png">
 ### This type of bearing may be appropriate only for elevation and not both azimuth and elevation. We understand Azimuth may need a thrust bearing. Fortunately automotive thrust bearings are plentiful and cheap. 
+### The dishes we are using for testing and prototype are pictured below. 
+![OpenRotor2](https://user-images.githubusercontent.com/6608613/70574916-1a45a580-1b5a-11ea-902f-76e1f40c4de4.jpg)
+![OpenRotor1](https://user-images.githubusercontent.com/6608613/70574917-1a45a580-1b5a-11ea-81fe-5f01f987331b.jpg)
