@@ -9,3 +9,5 @@
 ### The dishes we are using for testing and prototype are pictured below. 
 ![OpenRotor2](https://user-images.githubusercontent.com/6608613/70574916-1a45a580-1b5a-11ea-902f-76e1f40c4de4.jpg)
 ![OpenRotor1](https://user-images.githubusercontent.com/6608613/70574917-1a45a580-1b5a-11ea-81fe-5f01f987331b.jpg)
+### Here's a reference design that was recommended:
+https://www.satellitesuperstore.com/satellite_diseqc_motors_36_volt_motors.htm#primesatinclinedorbit1800
