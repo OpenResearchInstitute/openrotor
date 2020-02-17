@@ -9,6 +9,7 @@
 * Movement speed capable of tracking LEO satellites
 * Appropriate enclosure for protection from weather and spray
 * Quiet enough to not disturb neighbors
+* 3 inch mast
 
 ## Electrical Control System
 
