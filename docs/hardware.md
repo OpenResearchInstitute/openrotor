@@ -3,13 +3,29 @@
 ## Mechanical
 
 * Az/El antenna rotator hardware
-* Capable of pointing a 2 meter dish with associated receiver electronics
+* Capable of pointing a 2.1 meter dish with associated electronics
+  * Maximum weight of dish and electronics (Vertical Load): nnn kg
 * All open source
 * When possible, standard, easily sourced components should be used
 * Movement speed capable of tracking LEO satellites
 * Appropriate enclosure for protection from weather and spray
 * Quiet enough to not disturb neighbors
 * 3 inch mast
+* Rotational Torque
+  * Elevation: nnn N&sdot;m
+  * Azimuth: nnn N&sdot;m
+* Braking Torque
+  * Elevation: nnn N&sdot;m
+  * Azimuth: nnn N&sdot;m
+* Pointing Accuracy
+  * Elevation:  &pm;nnn&deg;
+  * Azimuth: &pm;nnn&deg;
+* Range of Travel
+  * Elevation: +nnn&deg; to -nnn&deg;
+  * Azimuth: +nnn&deg; to -nnn&deg;
+* Speed of Travel
+  * Elevation: nnn&deg;/s
+  * Azimuth: nnn&deg;/s
 
 ## Electrical Control System
 
