@@ -22,7 +22,7 @@
   * Azimuth: &pm;nnn&deg;
 * Range of Travel
   * Elevation: 0.00&deg; to +180.00&deg;
-  * Azimuth: 0.00&deg; to +360.00&deg;
+  * Azimuth: 0.00&deg; to +450.00&deg;
 * Speed of Travel
   * Elevation: 3.0 &plusmn; 0.5&deg;/s
   * Azimuth: 6.0 &plusmn; 0.5&deg;/s
