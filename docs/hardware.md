@@ -4,7 +4,7 @@
 
 * Az/El antenna rotator hardware
 * Capable of pointing a 2.1 meter dish with associated electronics
-  * Maximum weight of dish and electronics (Vertical Load): nnn kg
+  * Maximum weight of dish and electronics (Vertical Load): 50 kg
 * All open source
 * When possible, standard, easily sourced components should be used
 * Movement speed capable of tracking LEO satellites
@@ -18,8 +18,8 @@
   * Elevation: nnn N&sdot;m
   * Azimuth: nnn N&sdot;m
 * Pointing Accuracy
-  * Elevation:  &pm;nnn&deg;
-  * Azimuth: &pm;nnn&deg;
+  * Elevation:  &pm;0.1&deg;
+  * Azimuth: &pm;0.1&deg;
 * Range of Travel
   * Elevation: 0.00&deg; to +180.00&deg;
   * Azimuth: 0.00&deg; to +450.00&deg;
