@@ -4,21 +4,19 @@
 
 [K3NG Rotator Controller](https://github.com/k3ng/k3ng_rotator_controller) Arduino based rotator interface
 
-[SatNOGS Rotator](https://satnogs.org/documentation/projects/) Rotator and electronics
-
-[SatNOGS Rotator - adapted for a dish](https://community.libre.space/t/v3-1-dc-rotator/1145)
+[SatNOGS Rotator](https://satnogs.org/documentation/projects/) &bull; [SatNOGS Rotator - adapted for a dish](https://community.libre.space/t/v3-1-dc-rotator/1145) Rotator and electronics
 
 [SATRAN Rotator](https://www.satran.io) Rotator and electronics
 
 [Oleg Kutkov's Rotator Project](https://olegkutkov.me/2021/02/11/small-satellite-dish-with-rotator/) Dish rotator and electronics
 
-[NyanSat Rotator](https://nyan-sat.com/chapter0.html) [NyanSat GitHub Repo](https://github.com/RedBalloonShenanigans/antenny) Small rotator and electronics 
+[NyanSat Rotator](https://nyan-sat.com/chapter0.html) &bull; [NyanSat GitHub Repo](https://github.com/RedBalloonShenanigans/antenny) Small rotator and electronics 
 
-[Reiwa Rotator](https://reiwaembedded.com/mobile-satellite-ground-station-part-1-design-concept/) [Part 2](https://reiwaembedded.com/mobile-satellite-ground-station-part-2-assembly/) [Part 3](https://reiwaembedded.com/dish-antenna-rotatorpart-3-integration/) Dish rotator using basic fabrication techniques
+[Reiwa Rotator](https://reiwaembedded.com/mobile-satellite-ground-station-part-1-design-concept/) &bull; [Part 2](https://reiwaembedded.com/mobile-satellite-ground-station-part-2-assembly/) &bull; [Part 3](https://reiwaembedded.com/dish-antenna-rotatorpart-3-integration/) Dish rotator using basic fabrication techniques
 
 [Cliff Bates KC7PPM "The Design and Building of a Large Dish Antenna Rotor"](https://www.radio-astronomy.org/pdf/LargeRadioAstronomyDishAntennaRotor_Bates_full_final.pdf) Project document
 
-[Las Vegas Boulevard (LVB) Tracker](http://www.g6lvb.com/Articles/LVBTracker/index.htm) [LVB Tracker 2](http://www.g6lvb.com/Articles/LVBTracker2/index.htm) Rotator interface
+[Las Vegas Boulevard (LVB) Tracker](http://www.g6lvb.com/Articles/LVBTracker/index.htm) &bull; [LVB Tracker 2](http://www.g6lvb.com/Articles/LVBTracker2/index.htm) Rotator interface
 
 
 ## Commercial Products
