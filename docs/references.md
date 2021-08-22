@@ -1,6 +1,6 @@
 # References
 
-## Open Source Projects
+## Open Source and Publicly Documented Projects
 
 [K3NG Rotator Controller](https://github.com/k3ng/k3ng_rotator_controller) Arduino based rotator interface
 
@@ -18,6 +18,8 @@
 
 [Las Vegas Boulevard (LVB) Tracker](http://www.g6lvb.com/Articles/LVBTracker/index.htm) &bull; [LVB Tracker 2](http://www.g6lvb.com/Articles/LVBTracker2/index.htm) Rotator interface
 
+[Joe Martin K5SO 8.4GHz Radio Telescope Project Volume I]
+(http://www.k5so.com/project_to_build_an_8.4GHz_radio_telescope_volume_I.pdf) &bull; [Volume II](http://www.k5so.com/project_to_build_an_8.4GHz_radio_telescope_volume_II.pdf) &bull; [Volume III](http://www.k5so.com/project_to_build_an_8.4GHz_radio_telescope_volume_III.pdf) &bull; [Volume IV](http://www.k5so.com/project_to_build_an_8.4GHz_radio_telescope_volume_IV.pdf) &bull; [Volume V](http://www.k5so.com/project_to_build_an_8.4GHz_radio_telescope_volume_V.pdf) Detailed fabrication and performance testing of 2.4m and 4.6m az/el dish mounts
 
 ## Commercial Products
 
